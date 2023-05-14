@@ -1,1 +1,0 @@
-paste_and_upload
