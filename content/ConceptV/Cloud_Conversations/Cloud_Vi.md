@@ -1,4 +1,4 @@
-# 3MonthProposal_2023 [GPT this is a text copied from a visual presentation. The below is a raw collation of over 10 files and topics, look for possible titles and dates, make reasonable inferencing on context]
+# 3MonthProposal_2023
 
 3 Month Proposal
 for Lindsay Birley
