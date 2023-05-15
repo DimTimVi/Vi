@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# Navigate to the directory of your Git repository
+cd C:\Users\Tim_G\OneDrive\Desktop\mysite\content
+
+# Stage all deleted files for commit
+git add -u
+
+# Stage the modified file for commit
+git add content/investor_database.md
+
+# Stage the untracked file for commit
+git add content/Brain\ Dump.txt
+
+# Commit all changes with a specific commit message
+git commit -m "Stage and commit all changes"
+
+# Push the changes to the remote repository
+git push
